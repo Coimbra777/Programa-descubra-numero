@@ -1,6 +1,20 @@
-# Programa-descubra-o-numero
 
-O Programa Descubra o número consiste na interação do usuário na escolha de um número aleatório entre 1 e 100.<br>
-O usuário tem até 6 chances para acertar o número sorteado pelo programa .<br>
-Caso o usuário acerte, o programa mostrará uma mensagem de "Parabéns", caso gaste as 6 chances ele é advertido zerando assim as suas chances tendo como escolha o botão de jogar novamente.<br>
-No desenvolvimento do programa usei alguns recursos básicos da linguagem como "if", "else" ,e vetor , assim como algumas funções.
+# Descubra o Número
+
+O "Descubra o Número" é um jogo de adivinhação em que o jogador tenta adivinhar um número aleatório gerado pelo computador. <br>
+O objetivo é acertar o número correto no menor número de tentativas possível.
+
+# Funcionalidades 
+O computador gera um número aleatório entre um intervalo definido.
+O jogador insere uma tentativa de adivinhação.
+O programa informa se a tentativa é maior ou menor ao número gerado.
+O programa mantém um contador do número de tentativas do jogador.
+Quando o jogador acerta o número, o programa exibe uma mensagem de vitória, juntamente com o número de tentativas realizadas.
+O jogador pode escolher jogar novamente ou sair do jogo.
+
+# Contribuição
+Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções para o jogo "Descubra o Número", fique à vontade para abrir um pull request ou enviar um e-mail para o autor.
+
+# Acesse aqui para jogar:
+
+https://coimbra777.github.io/Programa-descubra-numero/
