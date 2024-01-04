@@ -1,5 +1,6 @@
 
 # Descubra o Número
+![screencapture-coimbra777-github-io-Programa-descubra-numero-2024-01-04-19_14_50](https://github.com/Coimbra777/Programa-descubra-numero/assets/103074944/68847ade-bcfe-496d-831a-40bac7d93333)
 
 O "Descubra o Número" é um jogo de adivinhação em que o jogador tenta adivinhar um número aleatório gerado pelo computador. <br>
 O objetivo é acertar o número correto no menor número de tentativas possível.
